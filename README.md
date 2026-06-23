@@ -31,14 +31,14 @@ Outside of coding, you'll find me with a paintbrush 🎨 or a book 📚.</p>
   <a href="https://github.com/Aliaa-Ezzat">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&labelColor=181717&logo=GitHub&link=https://github.com/Aliaa-Ezzat" alt="GitHub Badge">
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&labelColor=EA4335&logo=Gmail&link=mailto:your-email@gmail.com" alt="Email Badge">
+  <a href="mailto:aliaaezzat2050@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&labelColor=EA4335&logo=Gmail&link=mailto:aliaaezzat2050@gmail.com" alt="Email Badge">
   </a>
 </p>
 
 <p>📊 "Data is the new oil, and creativity is the refinery." ✨</p>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xmN3N6dXByNzZqa2Q3ajV4ZnZ0emRsc3Q1a3Z5Nm9ic2QyN2JqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdms3NTQ0bnZpZnVqNHd4d2F3MGlodHo2MmZobWxndWppZmp3NzFyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" width="320" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -180,7 +180,7 @@ Outside of coding, you'll find me with a paintbrush 🎨 or a book 📚.</p>
   <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:aliaaezzat2050@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" />
 </a>
 
