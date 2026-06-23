@@ -38,20 +38,27 @@ Outside of coding, you'll find me with a paintbrush 🎨 or a book 📚.</p>
 
 <p>📊 "Data is the new oil, and creativity is the refinery." ✨</p>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdms3NTQ0bnZpZnVqNHd4d2F3MGlodHo2MmZobWxndWppZmp3NzFyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" width="320" />
+<table>
+  <tr>
+    <td width="60%">
+      <h2>⚡️ A Few Quick Facts</h2>
+      <ul>
+        <li>🔭 I'm currently working on <strong>AI-powered applications</strong> and <strong>data analytics projects</strong>.</li>
+        <li>🧐 Learning about <strong>Deep Learning</strong>, <strong>Power BI</strong>, <strong>SQL</strong>, and <strong>Software Architecture</strong>.</li>
+        <li>👩‍💻 Most of my projects are available on <a href="https://github.com/Aliaa-Ezzat">GitHub</a>.</li>
+        <li>📊 Passionate about <strong>Data Science</strong>, <strong>Data Visualization</strong>, and <strong>Machine Learning</strong>.</li>
+        <li>💬 Ping me about <strong>Python, Data Analysis, AI, and creative projects</strong>.</li>
+        <li>🎨 Fun Fact: I love painting and reading in my free time! 🌸</li>
+        <li>🌱 Always learning, always growing.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdms3NTQ0bnZpZnVqNHd4d2F3MGlodHo2MmZobWxndWppZmp3NzFyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" width="280" />
+    </td>
+  </tr>
+</table>
 
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-  <li>🔭 I'm currently working on <strong>AI-powered applications</strong> and <strong>data analytics projects</strong>.</li>
-  <li>🧐 Learning about <strong>Deep Learning</strong>, <strong>Power BI</strong>, <strong>SQL</strong>, and <strong>Software Architecture</strong>.</li>
-  <li>👩‍💻 Most of my projects are available on <a href="https://github.com/Aliaa-Ezzat">GitHub</a>.</li>
-  <li>📊 Passionate about <strong>Data Science</strong>, <strong>Data Visualization</strong>, and <strong>Machine Learning</strong>.</li>
-  <li>💬 Ping me about <strong>Python, Data Analysis, AI, and creative projects</strong>.</li>
-  <li>🎨 Fun Fact: I love painting and reading in my free time! 🌸</li>
-  <li>🌱 Always learning, always growing.</li>
-</ul>
-
-<br clear="right"/>
+<br clear="both"/>
 
 ---
 
